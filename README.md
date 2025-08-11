@@ -27,11 +27,6 @@ This project is part of a broader initiative to improve **vehicle safety** throu
 
  💻 Installation
 
-```bash
-# Clone the repository
-$ git clone https://github.com/aathirithikas/drowsiness-detector.git
-$ cd drowsiness-detector
-
 # Install required packages
 $ pip install -r requirements.txt
 
@@ -69,7 +64,7 @@ Your `.exe` will be created in the `dist/` directory.
 
 🧑‍💻 Author
 
-**Aathirithika S** – [GitHub](https://github.com/aathi2005)
+**Monika Niyathi J R** – [GitHub](https://github.com/Monika14-glitch)
 
 
 
