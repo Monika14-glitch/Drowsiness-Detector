@@ -24,10 +24,6 @@ tkinter (for GUI version)
 PyInstaller (for application packaging)
 💻 Installation
 
-# Clone the repository
-$ git clone https://github.com/aathirithikas/drowsiness-detector.git
-$ cd drowsiness-detector
-
 # Install required packages
 $ pip install -r requirements.txt
 
